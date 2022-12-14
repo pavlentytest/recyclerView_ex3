@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Ivanov Ivan",
+    "sex": "M",
+    "phoneNumber": "+2342342923"
+  },
+  {
+    "name": "Petrov Petr",
+    "sex": "M",
+    "phoneNumber": "+123123123"
+  },
+  {
+    "name": "Ivanova Maria",
+    "sex": "F",
+    "phoneNumber": "+234234234234"
+  },
+  {
+    "name": "Alex Alex",
+    "sex": "M",
+    "phoneNumber": "+12323423"
+  },
+  {
+    "name": "Olga Olga",
+    "sex": "F",
+    "phoneNumber": "+92348283"
+  },
+  {
+    "name": "Ivanov Ivan",
+    "sex": "M",
+    "phoneNumber": "+2342342923"
+  },
+  {
+    "name": "Petrov Petr",
+    "sex": "M",
+    "phoneNumber": "+123123123"
+  },
+  {
+    "name": "Ivanova Maria",
+    "sex": "F",
+    "phoneNumber": "+234234234234"
+  },
+  {
+    "name": "Alex Alex",
+    "sex": "M",
+    "phoneNumber": "+12323423"
+  },
+  {
+    "name": "Olga Olga",
+    "sex": "F",
+    "phoneNumber": "+92348283"
+  }
+]
